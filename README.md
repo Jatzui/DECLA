@@ -1,1 +1,1 @@
-# DECLA
+# DECLARACION
